@@ -1,0 +1,33 @@
+_repo: Home-Fires-in-France_35616
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fisher, Dorothy Canfield
+    aliases:
+    - Canfield, Dorothea F.
+    - Fisher, Mrs. John Redwood
+    - Canfield, Dorothy
+    - Fisher, Dorothea Frances Canfield
+    birthdate: 1879
+    deathdate: 1958
+    gutenberg_agent_id: '1781'
+    url: http://www.gutenberg.org/2009/agents/1781
+    wikipedia: http://en.wikipedia.org/wiki/Dorothy_Canfield_Fisher
+description: ''
+gutenberg_issued: '2011-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35616'
+  lccn: '18026756'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'World War, 1914-1918 -- France -- Fiction'
+title: Home Fires in France
+url: http://www.gutenberg.org/ebooks/35616
